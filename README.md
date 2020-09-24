@@ -1,5 +1,5 @@
 # :sparkles: Herencia en Java :sparkles:
-La herencia es un mecanismo que permite la** definicion de una clase** a partir de de la definicion **de otra ya existente**. Es decir es un mecanismo de* reutilizacon de codigo*, donde se hereda una clase base (super-clase) a una clase derivada (sub-clase).
+La herencia es un mecanismo que permite la **definicion de una clase** a partir de de la definicion **de otra ya existente**. Es decir es un mecanismo de* reutilizacon de codigo*, donde se hereda una clase base (super-clase) a una clase derivada (sub-clase).
 
 
 
